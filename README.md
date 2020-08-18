@@ -1,4 +1,4 @@
-# EEGSignalClassification
+# EEG Signal Classification
 
 References
 
